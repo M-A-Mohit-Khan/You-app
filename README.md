@@ -1,1 +1,1 @@
-# You-app
+# You is a medical crowdfunding app
